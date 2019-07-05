@@ -16,7 +16,7 @@ public class PalabraNull {
         persona2 =null;
 
         if (persona1 != null){
-            System.out.println("persona1 = " + persona1.obtenerNombre());// prueba git
+            System.out.println("persona1 prueba = " + persona1.obtenerNombre());// prueba git
         }
 
     }
